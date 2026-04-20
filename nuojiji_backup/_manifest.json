@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1776616583338,
-  "appVersion": "5.0.0 (2026.04.20)",
+  "timestamp": 1776643270422,
+  "appVersion": "4.0.0 (2026.04.11)",
   "tables": [
     "characters",
     "worldBooks",
@@ -39,6 +39,6 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 4
+    "messages": 5
   }
 }
