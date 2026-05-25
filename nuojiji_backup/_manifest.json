@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1779738414366,
+  "timestamp": 1779738480356,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -43,7 +43,7 @@
   ],
   "chunkedTables": {
     "messages": 73,
-    "tmStories": 1
+    "tmStories": 3
   },
   "completedTables": {
     "characters": true,
@@ -58,7 +58,15 @@
     "memory": true,
     "callLogs": true,
     "roleStickers": true,
-    "tmSessions": true
+    "tmSessions": true,
+    "customNoises": true,
+    "flashMoments": true,
+    "groupSettings": true,
+    "userLinks": true,
+    "userMessages": true,
+    "ttsAudio": true,
+    "forumData": true,
+    "groupChats": true
   },
   "source": "auto",
   "inProgress": true
