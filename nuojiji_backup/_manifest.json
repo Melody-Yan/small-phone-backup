@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780757898121,
+  "timestamp": 1780757906034,
   "appVersion": "5.5.0 (2026.06.05)",
   "tables": [
     "characters",
@@ -63,7 +63,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 25
+    "messages": 26
   },
   "completedTables": {
     "characters": true,
