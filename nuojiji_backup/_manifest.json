@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780854663205,
+  "timestamp": 1780854695854,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -65,7 +65,9 @@
     "userMessages": true,
     "ttsAudio": true,
     "groupChats": true,
-    "xinsheng": true
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "couplesData": true
   },
   "source": "auto",
   "inProgress": true
