@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781104454160,
+  "timestamp": 1781104475447,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -59,7 +59,8 @@
     "userLinks": true,
     "userMessages": true,
     "forumData": true,
-    "calendarData": true
+    "calendarData": true,
+    "pomodoroSessions": true
   },
   "source": "auto",
   "inProgress": true
