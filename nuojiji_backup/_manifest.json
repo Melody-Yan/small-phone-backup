@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781956587200,
+  "timestamp": 1782233486008,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -60,21 +60,9 @@
     "healthEntries",
     "healthProfile",
     "homelandState",
+    "fontStore",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 4,
-    "userPosts": 4,
-    "messages": 9
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "chatSettings": true
-  },
   "source": "auto",
   "inProgress": true
 }
