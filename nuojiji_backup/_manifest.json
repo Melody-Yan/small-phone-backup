@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790786193726,
+  "timestamp": 1790786199604,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -119,7 +119,7 @@
     "xinshengRounds": 2,
     "imageStore": 21,
     "stickerStore": 2,
-    "fontStore": 1
+    "fontStore": 2
   },
   "completedTables": {
     "characters": true,
