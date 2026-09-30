@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790743975386,
+  "timestamp": 1790743981512,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -162,7 +162,9 @@
     "goingOutLogs": true,
     "jiliData": true,
     "jiliCreators": true,
-    "jiliPosts": true
+    "jiliPosts": true,
+    "jiliDMs": true,
+    "jiliDMMessages": true
   },
   "source": "auto",
   "inProgress": true
