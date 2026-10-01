@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790869887108,
+  "timestamp": 1790869894483,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -118,7 +118,6 @@
     "summaryEntries": 5,
     "xinshengRounds": 2,
     "imageStore": 11,
-    "stickerStore": 2,
     "fontStore": 2
   },
   "completedTables": {
@@ -222,7 +221,8 @@
     "chatSettingsPresets": true,
     "charBondSpaces": true,
     "charLifePlans": true,
-    "_migration": true
+    "_migration": true,
+    "stickerStore": true
   },
   "source": "auto",
   "inProgress": true
